@@ -1,4 +1,4 @@
-# Banco Central do Brasil - Matriz de Crédito Rural (funções em construção)
+# Banco Central do Brasil - Matriz de Crédito Rural (em construção)
 
 -------
 Este pacote facilita o acesso aos dados de crédito rural do Banco Central do Brasil, ainda em construção.
